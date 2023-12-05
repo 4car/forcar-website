@@ -1,0 +1,19 @@
+div.notification{
+    padding: 20px;
+    display: inline-block;
+    align-self: center;
+}
+
+div.type{ 
+    vertical-align: top;
+    display: inline-table;
+    text-align: center;
+    width: 220px;
+    padding: 10px;
+    border-style: dashed;
+}
+.image{
+    width: 100%;
+    border: 5px;
+}
+
